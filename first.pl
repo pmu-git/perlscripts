@@ -3,8 +3,7 @@ use warnings;
 use diagnostics;
 
 my @name     = qw | Pritesh Manohar Ugrankar|;
-my @location = qw | J1-Block JS-287 Ittina-Neela-Apartments \
-		    E-Ciy Bangalore Karnataka PinCode-56100|;
+my @location = qw | Remember to enter the address here.|;
 my @hobbies  = qw |Music Reading|;
 
 
