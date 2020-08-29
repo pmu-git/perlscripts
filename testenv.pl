@@ -2,5 +2,6 @@ use strict;
 use warnings;
 use diagnostics;
 
-my $number = 255;
-print 0x$number, "\n";
+while (my($key, $value) = each (%ENV)) {
+	print "$key: $value\n";
+}
